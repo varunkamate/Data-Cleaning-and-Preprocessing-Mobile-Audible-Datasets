@@ -28,3 +28,7 @@ Extracting useful features (e.g., ratings, storage, battery capacity).
 Removing duplicates and irrelevant columns.
 
 Converting raw datasets into analysis-ready formats.
+
+🚀 Why This Project
+
+Data cleaning is one of the most crucial steps in Data Science and Machine Learning. These notebooks serve as a practical reference for beginners and intermediates who want to learn how to handle real-world messy data and prepare it for meaningful analysis.
